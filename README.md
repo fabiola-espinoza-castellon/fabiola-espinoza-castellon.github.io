@@ -1,7 +1,7 @@
 # About me
 I hold a PhD student in data science from Université Paris-Saclay & CEA-List. During my PhD, I focused on two aspects of federated learning models while dealing with heterogeneous data. I first worked on the effectiveness of models, meaning if they are accurate on the intended goal. I then proposed defenses against backdoor attacks while still using heterogeneous data. I was advised by Cédric Gouy-Pailler and Aurélien Mayoue.
 
-I defended my PhD thesis in February 2024. I decided to take a break from research (and work in general) and since I have always loved traveling, I visited different countries in Asia for more than 3 months. You can check my trip here :)
+I defended my PhD thesis in February 2024. I decided to take a break from research (and work in general) and since I have always loved traveling, I visited different countries in Asia for more than 3 months. You can check my trip [here](https://www.polarsteps.com/fabiola95/11228877-philippines?s=A5D7DC0D-A3FF-40A1-9023-8462FA368058) :)
 
 After that break, I am now looking for a job as a data scientist/research scientist in companies or startups using AI to solve real-world problems and have a positive impact on our society. 
 
