@@ -3,7 +3,7 @@ I hold a PhD student in data science from Université Paris-Saclay & CEA-List In
 
 # News!
 * lala
-* lala 2
+* September 2020: I finished my 6-months internship in EDF R&D, concluding my studies at Telecom SudParis! My internship was on the use of deep learning to forecast wind power production.
 
 # Publications
 
