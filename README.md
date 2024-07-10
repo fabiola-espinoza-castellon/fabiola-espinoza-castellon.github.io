@@ -29,6 +29,4 @@ After that break, I am now looking for a job as a data scientist/research scient
 * Espinoza Castellon, F., Mayoue, A., Sublemontier, J. H., & Gouy-Pailler, C. (2022, July). Federated learning with incremental clustering for heterogeneous data. In 2022 International Joint Conference on Neural Networks (IJCNN) (pp. 1-8). IEEE.
 
 # Teaching
-
-
-
+Travaux Pratiques sur les attaque adversariales [ici](https://github.com/fabiola-espinoza-castellon/TP_AttaquesAdversariales).
