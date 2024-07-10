@@ -7,7 +7,7 @@ I hold a PhD student in data science from Université Paris-Saclay & CEA-List. D
 * November 2023: Received the best paper award at IEEE TPS - ISA, in Atlanta!
 * September 2023: Conference paper accepted at [IEEE TPS - ISA](https://www.sis.pitt.edu/lersais/conference/tps/2023/index.html).
 * June 2023: Conference paper accepted at local French conference [GRETSI](https://gretsi.fr/colloque2023/).
-* March 2023: Short talk at a GT (groupe de travail) on cybersecurity, Hub France IA.
+* March 2023: Short talk at a [GT (groupe de travail) on cybersecurity](https://www.hub-franceia.fr/groupes-de-travail/), Hub France IA.
 * January 2023: Poster presented at the [Workshop FL-Day - Decentralized Federated Learning](https://www.dataia.eu/index.php/en/events/workshop-fl-day-decentralized-federated-learning-approaches-and-challenges), DATAIA Institute of Paris-Saclay.
 * June 2022: Short talk at the [GDR (groupe de recherche - research group) on distributed and federated AI](https://sites.google.com/view/apprentissage-distribue-gdr/accueil), Sorbonne Université.
 * May 2022: Poster presented at the [ICST (Information and Communication Sciences and Technologies) doctoral students' day](https://digicosme.cnrs.fr/ceremonie-de-remise-des-prix-de-la-meilleure-production-scientifique-en-stic-du-plateau-de-saclay/).
