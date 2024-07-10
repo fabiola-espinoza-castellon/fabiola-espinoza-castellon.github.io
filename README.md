@@ -1,7 +1,12 @@
 # About me
 I hold a PhD student in data science from Université Paris-Saclay & CEA-List. During my PhD, I focused on two aspects of federated learning models while dealing with heterogeneous data. I first worked on the effectiveness of models, meaning if they are accurate on the intended goal. I then proposed defenses against backdoor attacks while still using heterogeneous data. I was advised by Cédric Gouy-Pailler and Aurélien Mayoue.
 
+I defended my PhD thesis in February 2024. I decided to take a break from research (and work in general) and since I have always loved traveling, I visited different countries in Asia for more than 3 months. You can check my trip here :)
+
+After that break, I am now looking for a job as a data scientist/research scientist in companies or startups using AI to solve real-world problems and have a positive impact on our society. 
+
 # News!
+* February 2024: Defended my PhD thesis! 
 * January 2024: [G-Research grant](https://www.gresearch.com/news/g-research-january-2024-grant-winners/) awarded to participate at ICASSP 2024!
 * December 2023: Conference paper accepted at [ICASSP 2024](https://2024.ieeeicassp.org/)!
 * November 2023: Received the best paper award at IEEE TPS - ISA, in Atlanta!
