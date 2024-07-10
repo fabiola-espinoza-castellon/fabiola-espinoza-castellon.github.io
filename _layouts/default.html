@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title | escape }} - {{ site.title | escape }}</title>
+    <meta name="description" content="{{ site.description | escape }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+  <body>
+    <header>
+      <img src="{{ site.logo }}" alt="{{ site.title }}" style="max-width: 100px;">
+      <h1>{{ site.title }}</h1>
+      <p>{{ site.description }}</p>
+      <nav>
+        <ul>
+          <li><a href="{{ site.url }}">Home</a></li>
+          {% for link in site.links %}
+          <li><a href="{{ link.url }}" target="_blank">
+            <i class="fa {{ link.icon }}"></i> {{ link.name }}
+          </a></li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </header>
+    <main>
+      {{ content }}
+    </main>
+    <footer>
+      <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+    </footer>
+  </body>
+</html>
