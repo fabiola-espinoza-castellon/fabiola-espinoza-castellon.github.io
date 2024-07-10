@@ -23,6 +23,10 @@ After that break, I am now looking for a job as a data scientist/research scient
 * September 2020: Finished my internship at EDF R&D, concluding my studies at Telecom SudParis! My internship focused on the use of deep learning to forecast wind power production.
 
 # Publications
+* Espinoza Castellon, F., Montesuma, E. F., Mboula, F. N., Mayoue, A., Souloumiac, A., & Gouy-Pailler, C. (2024, April). Federated dataset dictionary learning for multi-source domain adaptation. In 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 5610-5614). IEEE.
+* Espinoza Castellon, F., Singh, D., Mayoue, A., & Gouy-Pailler, C. (2023, November). FUBA: Federated Uncovering of Backdoor Attacks for Heterogeneous Data. In 2023 5th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) (pp. 55-63). IEEE.
+* Espinoza Castellon, F., Singh, D., Mayoue, A., & Gouy-Pailler, C. (2023, August). Défense contre les attaques par porte dérobée en apprentissage fédéré par estimation du motif d’attaque et élagage. In 29ème Colloque sur le traitement du signal et des images (p. 653-656). GRETSI - Groupe de Recherche en Traitement du Signal et des Images.
+* Espinoza Castellon, F., Mayoue, A., Sublemontier, J. H., & Gouy-Pailler, C. (2022, July). Federated learning with incremental clustering for heterogeneous data. In 2022 International Joint Conference on Neural Networks (IJCNN) (pp. 1-8). IEEE.
 
 # Teaching
 
