@@ -4,3 +4,12 @@ description: fabiola.espinoza.castellon@gmail.com // +33 7 83 78 81 24
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+
+# Add links to your CV and Google Scholar
+links:
+  - name: "CV"
+    url: "fabiola-espinoza-castellon.github.io/202407_updatedCV_company.pdf"
+    icon: "fa-file-pdf-o"
+  - name: "Google Scholar"
+    url: "https://scholar.google.com/citations?user=7XvfTxUAAAAJ&hl=fr"
+    icon: "fa-graduation-cap"
