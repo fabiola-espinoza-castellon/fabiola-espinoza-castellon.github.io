@@ -1,5 +1,5 @@
 # About me
-I hold a PhD student in data science from Université Paris-Saclay & CEA-List. During my PhD, I focused on the effectiveness and the security of federated learning models while dealing with heterogeneous data. I was advised by Cédric Gouy-Pailler and Aurélien Mayoue.
+I hold a PhD in data science from Université Paris-Saclay & CEA-List. During my PhD, I focused on the effectiveness and the security of federated learning models while dealing with heterogeneous data. I was advised by Cédric Gouy-Pailler and Aurélien Mayoue.
 
 ### On the job market!
 
